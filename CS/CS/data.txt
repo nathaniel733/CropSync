@@ -1,0 +1,6 @@
+Sensor 1:12%
+Sensor 2:13%
+Sensor 2:14%
+Sensor 3:14%
+Sensor 2:12%
+Sensor 1:13%
